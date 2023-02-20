@@ -1,1 +1,1 @@
-web: gunicorn eval.wsgi
+web: gunicorn djangopwa.wsgi
